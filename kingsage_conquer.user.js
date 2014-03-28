@@ -1,4 +1,4 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name		Kingsage Conquer
 // @version		2.0.2
 // @author		grafilicious
@@ -244,7 +244,7 @@ var init = function($) {
 			case 'check':
 				dataString += '&coords=' + d.coords; break;
 			case 'delete':
-				dataString += '&id=' + d.id; break;
+				dataString += '&coords=' + d.coords; break;
 			case 'reserve':
 				dataString += '&coords=' + d.coords + '&player=' + d.player + '&ally=' + d.ally; break;
 			case 'chgReq':
