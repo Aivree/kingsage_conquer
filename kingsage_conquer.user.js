@@ -215,7 +215,7 @@ var init = function($) {
 	//* globals
 	var url 		= 'http://bigell.bplaced.net/kaa/pages/',
 		toolpage 	= url + 'login.php',
-		apipage 	= 'http://bigell.bplaced.net/kaa/conquer/api/conquer.api.php',
+		apipage		= 'http://conquer.bigell-programming.de/api/conquer.api.php',
 		// success & fail colors
 		green 		= '#32CD32',
 		red 		= '#DC143C',
