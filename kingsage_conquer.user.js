@@ -1,6 +1,6 @@
 ﻿// ==UserScript==
 // @name		Kingsage Conquer
-// @version		2.0.2
+// @version		2.0.5
 // @author		grafilicious
 //
 // @include		http://*.kingsage.*/game.php?*s=info_village*
@@ -27,6 +27,7 @@
 // @history 31.10.2012 - change - complete rewrite
 // @history 05.11.2013 - fix - kingsage changed domains, adapted includes
 // @history 09.01.2013 - fix - map walker bug
+// @history 29.04.2014 - change - apilink
 // ==/UserScript==
 
 //* select language
